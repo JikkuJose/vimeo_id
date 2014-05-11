@@ -18,7 +18,7 @@ Or install it yourself as:
 
 ## Usage
 
-    VimeoId.from('')
+    VimeoId.from('http://www.vimeo.com/11111111') # gives: 11111111
 
 ## Contributing
 
